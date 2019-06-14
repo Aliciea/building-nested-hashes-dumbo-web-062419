@@ -36,7 +36,7 @@ def fourth_challenge
           :age => "44",
           :attitide =>
         "worried"
-        },
+        }
         #your hashes here!
       ]
    }
